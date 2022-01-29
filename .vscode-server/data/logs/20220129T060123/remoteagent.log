@@ -1,0 +1,66 @@
+[2022-01-29 06:01:23.953] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-29 06:01:23.953] [remoteagent] [info] Extension host agent started.
+[2022-01-29 06:01:24.953] [remoteagent] [info] [127.0.0.1][f2ccca2b][ManagementConnection] New connection established.
+[2022-01-29 06:01:24.963] [remoteagent] [info] [127.0.0.1][042f1e27][ExtensionHostConnection] New connection established.
+[2022-01-29 06:01:27.513] [remoteagent] [info] [127.0.0.1][042f1e27][ExtensionHostConnection] <129> Launched Extension Host Process.
+[2022-01-29 06:04:41.774] [remoteagent] [info] [127.0.0.1][9ecaf8e1][ManagementConnection] New connection established.
+[2022-01-29 06:04:42.009] [remoteagent] [info] [127.0.0.1][db73497a][ExtensionHostConnection] New connection established.
+[2022-01-29 06:04:42.018] [remoteagent] [info] [127.0.0.1][db73497a][ExtensionHostConnection] <460> Launched Extension Host Process.
+[2022-01-29 06:10:22.895] [remoteagent] [info] [127.0.0.1][f2ccca2b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-29 06:10:22.962] [remoteagent] [info] [127.0.0.1][042f1e27][ExtensionHostConnection] <129> Extension Host Process exited with code: 0, signal: null.
+[2022-01-29 07:23:59.709] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-01-29 07:24:02.151] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/sangay/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.7.1
+[2022-01-29 07:24:03.092] [remoteagent] [info] Extracted extension to /home/sangay/.vscode-server/extensions/.929c0579-9911-4512-a8ce-34cc3ceef0bb: ms-vscode.cpptools
+[2022-01-29 07:24:03.146] [remoteagent] [info] Renamed to /home/sangay/.vscode-server/extensions/ms-vscode.cpptools-1.7.1
+[2022-01-29 07:24:03.156] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-01-29 07:24:03.158] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-29 07:24:47.245] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-01-29 07:24:51.229] [remoteagent] [info] Extracted extension to /home/sangay/.vscode-server/extensions/.ac634a5b-0ab8-4c49-9146-aa23391514a8: ms-vscode.cpptools
+[2022-01-29 07:24:51.263] [remoteagent] [info] Renamed to /home/sangay/.vscode-server/extensions/ms-vscode.cpptools-1.8.1
+[2022-01-29 07:24:51.275] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-01-29 07:24:51.275] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-29 07:25:09.234] [remoteagent] [info] [127.0.0.1][9ecaf8e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-29 07:25:09.332] [remoteagent] [info] [127.0.0.1][db73497a][ExtensionHostConnection] <460> Extension Host Process exited with code: 0, signal: null.
+[2022-01-29 07:25:12.012] [remoteagent] [info] [127.0.0.1][bcbf2f93][ManagementConnection] New connection established.
+[2022-01-29 07:25:12.741] [remoteagent] [info] [127.0.0.1][a41be74f][ExtensionHostConnection] New connection established.
+[2022-01-29 07:25:12.766] [remoteagent] [info] [127.0.0.1][a41be74f][ExtensionHostConnection] <26966> Launched Extension Host Process.
+[2022-01-29 07:25:43.877] [remoteagent] [info] Installing extension: franneck94.c-cpp-runner
+[2022-01-29 07:25:44.551] [remoteagent] [info] Installing extension: vadimcn.vscode-lldb
+[2022-01-29 07:25:45.460] [remoteagent] [info] Downloaded extension: vadimcn.vscode-lldb /home/sangay/.vscode-server/data/CachedExtensionVSIXs/vadimcn.vscode-lldb-1.6.10
+[2022-01-29 07:25:45.489] [remoteagent] [info] Extracted extension to /home/sangay/.vscode-server/extensions/.aaf1d9d0-0461-43c2-ae88-7efe9bae0cf5: vadimcn.vscode-lldb
+[2022-01-29 07:25:45.500] [remoteagent] [info] Renamed to /home/sangay/.vscode-server/extensions/vadimcn.vscode-lldb-1.6.10
+[2022-01-29 07:25:45.507] [remoteagent] [info] Extracting completed. vadimcn.vscode-lldb
+[2022-01-29 07:25:47.226] [remoteagent] [info] Downloaded extension: franneck94.c-cpp-runner /home/sangay/.vscode-server/data/CachedExtensionVSIXs/franneck94.c-cpp-runner-3.1.0
+[2022-01-29 07:25:47.573] [remoteagent] [info] Extracted extension to /home/sangay/.vscode-server/extensions/.22ad335f-265b-44a5-bc53-4de2ff898896: franneck94.c-cpp-runner
+[2022-01-29 07:25:47.585] [remoteagent] [info] Renamed to /home/sangay/.vscode-server/extensions/franneck94.c-cpp-runner-3.1.0
+[2022-01-29 07:25:47.590] [remoteagent] [info] Extracting completed. franneck94.c-cpp-runner
+[2022-01-29 07:25:47.591] [remoteagent] [info] Extension installed successfully: vadimcn.vscode-lldb
+[2022-01-29 07:25:47.592] [remoteagent] [info] Extension installed successfully: franneck94.c-cpp-runner
+[2022-01-29 07:35:23.027] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-01-29 07:35:23.193] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/sangay/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.7.1
+[2022-01-29 07:35:23.826] [remoteagent] [info] Extracted extension to /home/sangay/.vscode-server/extensions/.d9777a76-0573-41df-bdf8-01e27f6bbe1e: ms-vscode.cpptools
+[2022-01-29 07:35:23.891] [remoteagent] [info] Renamed to /home/sangay/.vscode-server/extensions/ms-vscode.cpptools-1.7.1
+[2022-01-29 07:35:23.909] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-01-29 07:35:23.927] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-29 07:35:26.433] [remoteagent] [info] [127.0.0.1][bcbf2f93][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-29 07:35:26.584] [remoteagent] [info] [127.0.0.1][a41be74f][ExtensionHostConnection] <26966> Extension Host Process exited with code: 0, signal: null.
+[2022-01-29 07:35:29.727] [remoteagent] [info] [127.0.0.1][bf3e5394][ManagementConnection] New connection established.
+[2022-01-29 07:35:30.630] [remoteagent] [info] [127.0.0.1][06819f87][ExtensionHostConnection] New connection established.
+[2022-01-29 07:35:30.659] [remoteagent] [info] [127.0.0.1][06819f87][ExtensionHostConnection] <27616> Launched Extension Host Process.
+[2022-01-29 07:36:17.205] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-01-29 07:36:17.734] [remoteagent] [info] Removed the extension from uninstalled list: ms-vscode.cpptools
+[2022-01-29 07:36:18.109] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-29 07:36:24.825] [remoteagent] [info] [127.0.0.1][bf3e5394][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-29 07:36:24.991] [remoteagent] [info] [127.0.0.1][06819f87][ExtensionHostConnection] <27616> Extension Host Process exited with code: 0, signal: null.
+[2022-01-29 07:36:27.123] [remoteagent] [info] [127.0.0.1][6c1e3b13][ManagementConnection] New connection established.
+[2022-01-29 07:36:27.736] [remoteagent] [info] [127.0.0.1][8ba7a4c1][ExtensionHostConnection] New connection established.
+[2022-01-29 07:36:27.756] [remoteagent] [info] [127.0.0.1][8ba7a4c1][ExtensionHostConnection] <27775> Launched Extension Host Process.
