@@ -203,3 +203,15 @@ git commit -m "first commit"
 git config --global user.email "sangayphuntsho999@gmail.com"
 git config --global user.name "sangay-phuntsho
 
+git status
+git add .
+git status
+git commit -m "First commit"
+git config user.email "sangayphuntshokhandu@gmail.com"
+git config user.name "sangay-phuntsho"
+git commit -m "first commit"
+git status
+ls
+git main.c
+clear
+git push 

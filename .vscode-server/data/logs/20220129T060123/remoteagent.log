@@ -64,3 +64,4 @@
 [2022-01-29 07:36:27.123] [remoteagent] [info] [127.0.0.1][6c1e3b13][ManagementConnection] New connection established.
 [2022-01-29 07:36:27.736] [remoteagent] [info] [127.0.0.1][8ba7a4c1][ExtensionHostConnection] New connection established.
 [2022-01-29 07:36:27.756] [remoteagent] [info] [127.0.0.1][8ba7a4c1][ExtensionHostConnection] <27775> Launched Extension Host Process.
+[2022-01-30 06:50:05.359] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

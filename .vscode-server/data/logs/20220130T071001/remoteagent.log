@@ -1,0 +1,15 @@
+[2022-01-30 07:10:01.459] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-30 07:10:01.459] [remoteagent] [info] Extension host agent started.
+[2022-01-30 07:10:01.906] [remoteagent] [info] [127.0.0.1][531c26e2][ManagementConnection] New connection established.
+[2022-01-30 07:10:02.405] [remoteagent] [info] [127.0.0.1][3fd06de1][ExtensionHostConnection] New connection established.
+[2022-01-30 07:10:02.464] [remoteagent] [info] Deleted from disk ms-vscode.cpptools /home/sangay/.vscode-server/extensions/ms-vscode.cpptools-1.7.1
+[2022-01-30 07:10:03.170] [remoteagent] [info] [127.0.0.1][3fd06de1][ExtensionHostConnection] <127> Launched Extension Host Process.
