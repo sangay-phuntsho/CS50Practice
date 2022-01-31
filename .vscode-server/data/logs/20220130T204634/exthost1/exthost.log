@@ -1,0 +1,22 @@
+[2022-01-30 20:46:36.421] [exthost] [info] Extension host with pid 6769 started
+[2022-01-30 20:46:36.448] [exthost] [info] Lock '/home/sangay/.vscode-server/data/User/workspaceStorage/eda7258b7382c7afca051e01b313adb4/vscode.lock': Lock acquired.
+[2022-01-30 20:46:36.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-30 20:46:36.630] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-30 20:46:36.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-30 20:46:36.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-30 20:46:36.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-30 20:46:37.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-30 20:46:37.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-30 20:46:37.456] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-30 20:46:37.464] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-30 20:46:37.494] [exthost] [info] Eager extensions activated
+[2022-01-30 20:46:37.726] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1227
+[2022-01-30 20:46:40.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-30 20:46:40.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-30 20:46:40.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-30 20:47:48.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-01-30 20:47:48.099] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-chrome'
+[2022-01-30 20:48:53.323] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1230
+[2022-01-30 20:48:57.651] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-30 20:48:57.653] [exthost] [info] Lock '/home/sangay/.vscode-server/data/User/workspaceStorage/eda7258b7382c7afca051e01b313adb4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-30 20:48:57.728] [exthost] [info] Extension host with pid 6769 exiting with code 0

@@ -215,3 +215,76 @@ ls
 git main.c
 clear
 git push 
+git remote add -u origin master https://github.com/sangay-phuntsho/CS50Practice.git
+git status
+git commit -am "Another commit"
+git status
+git add .
+git status
+git commit -m "committed"
+git status
+clear
+git help
+git diff
+git add .
+git commit -m "another commit"
+git status
+git push https://github.com/sangay-phuntsho
+git remote add origin https://github.com/sangay-phuntsho/CS50Practice.git
+git status
+git commit -a
+git commit -am "Committing just like that"
+git status
+git push remote origin https://github.com/sangay-phuntsho/CS50Practice.git
+git push -u origin master
+node hello.js
+clear
+git add .
+git status
+git commit hello.js -m "Add hello.js file"
+git status
+git push -u origin master
+clear
+git remote -v
+clar
+clear
+git remote -v
+git remote show  https://github.com/sangay-phuntsho/CS50Practice.git
+clera
+clear
+git branch -r
+clear
+git merge origin/main
+git merge origin
+git merge  https://github.com/sangay-phuntsho/CS50Practice.git
+clear
+git push -u  https://github.com/sangay-phuntsho/CS50Practice.git master
+clear
+git status
+clera
+clear
+make hello
+node hello
+sangay
+node hello
+clear
+node helloclear
+clear
+node hello
+clear
+make main
+./main
+clear
+node hello
+clear
+node hello
+touch index.html
+ls
+code hello.js
+make hello.js
+make hello
+node hello
+sudo apt install nodejs
+clear
+node hello
+node hello.js

@@ -13,3 +13,18 @@
 [2022-01-30 07:10:02.405] [remoteagent] [info] [127.0.0.1][3fd06de1][ExtensionHostConnection] New connection established.
 [2022-01-30 07:10:02.464] [remoteagent] [info] Deleted from disk ms-vscode.cpptools /home/sangay/.vscode-server/extensions/ms-vscode.cpptools-1.7.1
 [2022-01-30 07:10:03.170] [remoteagent] [info] [127.0.0.1][3fd06de1][ExtensionHostConnection] <127> Launched Extension Host Process.
+[2022-01-30 10:34:56.280] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-30 17:16:06.478] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-30 20:41:11.689] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-01-30 20:41:13.022] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/sangay/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.4
+[2022-01-30 20:41:15.196] [remoteagent] [info] Extracted extension to /home/sangay/.vscode-server/extensions/.9dabdc54-9a91-4b81-9740-bc060a7f3597: ritwickdey.liveserver
+[2022-01-30 20:41:15.229] [remoteagent] [info] Renamed to /home/sangay/.vscode-server/extensions/ritwickdey.liveserver-5.7.4
+[2022-01-30 20:41:15.234] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-01-30 20:41:15.236] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-01-30 20:45:08.230] [remoteagent] [info] [127.0.0.1][531c26e2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-30 20:45:08.671] [remoteagent] [info] [127.0.0.1][3fd06de1][ExtensionHostConnection] <127> Extension Host Process exited with code: 0, signal: null.
+[2022-01-30 20:45:11.201] [remoteagent] [info] [127.0.0.1][60f3b5da][ManagementConnection] New connection established.
+[2022-01-30 20:45:12.135] [remoteagent] [info] [127.0.0.1][bdb32151][ExtensionHostConnection] New connection established.
+[2022-01-30 20:45:12.153] [remoteagent] [info] [127.0.0.1][bdb32151][ExtensionHostConnection] <6555> Launched Extension Host Process.
+[2022-01-30 20:46:25.743] [remoteagent] [info] [127.0.0.1][60f3b5da][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-30 20:46:25.813] [remoteagent] [info] [127.0.0.1][bdb32151][ExtensionHostConnection] <6555> Extension Host Process exited with code: 0, signal: null.

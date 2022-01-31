@@ -15,3 +15,9 @@
 [2022-01-30 07:10:12.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2022-01-30 07:10:45.675] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
 [2022-01-30 07:11:05.102] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+[2022-01-30 07:43:59.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-01-30 07:43:59.064] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+[2022-01-30 20:37:59.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-30 20:41:15.668] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-30 20:45:08.236] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-30 20:45:08.638] [exthost] [info] Extension host with pid 127 exiting with code 0
