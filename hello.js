@@ -79,7 +79,7 @@ console.log(sam.firstName);
     .then(()=>addName(2000, 'John'))
     .then(()=>addName(2000, 'Doe'))
     .then(()=>addName(2000, 'Sarah'))
-      .catch((err) => console.log(err))
+    .catch((err) => console.log(err))
     
 /*
 fetch("https://type.fit/api/quotes")
@@ -106,4 +106,4 @@ const fetchData = async () => {
 
 fetchData();
 
-console.log("I being logged before fetch");
+console.log("I being logged before fetch"); 
